@@ -9,7 +9,7 @@
     <string name="edit_like">Tell what you like</string>
     <string name="edit_dislike">Tell us what you dislike</string>
     <string name="button_send">GENERATE STORY</string>
-    <string name="title_activity_story">StoryActivity</string>
+    <string name="title_activity_story">Here is your story</string>
     <string name="button_back">Go back</string>
 
 </resources>
